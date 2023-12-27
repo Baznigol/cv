@@ -72,7 +72,7 @@ export const RESUME_DATA = {
       logo: '',
       start: "06/2024",
       end: "",
-      description: "Your role and responsibilities at Cisco."
+      description: ""
     },
     {
       company: "Carolina Family Estate Planning",
